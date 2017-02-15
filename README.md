@@ -1,4 +1,4 @@
-<p align="center"><strong>kodeflex</strong> MEAN-Stack</p>
+# **kodeflex** MEAN-Stack
 
 kodeflex MEAN-Stack is pre-packaged Vargrant box that provides you a solid development envirement for your MEAN-based apps without installing all those software packages, tools and a web server on your local machine. This intends to provide clean and synced development envirement between each team memebers and also between multiple computers when you work on the same project.
 
